@@ -98,8 +98,8 @@
     <p class="last-updated">Last Updated: December 7, 2025</p>
     
     <div class="intro">
-        <p>At Rock Bottom, your privacy is our priority. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our iOS application. By accessing or using Rock Bottom, you consent to the practices described below.</p>
-        <p><strong>Rock Bottom is a personal journey and goal tracking app designed to help you rebuild from challenging moments in life. We believe in transparency and are committed to safeguarding your sensitive personal reflections.</strong></p>
+        <p>At Rock Bottom - Reset Your Life, your privacy is our priority. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our iOS application. By accessing or using Rock Bottom - Reset Your Life, you consent to the practices described below.</p>
+        <p><strong>Rock Bottom - Reset Your Life is a personal journey and goal tracking app designed to help you rebuild from challenging moments in life. We believe in transparency and are committed to safeguarding your sensitive personal reflections.</strong></p>
     </div>
     
     <h2>1. Information We Collect</h2>
@@ -178,7 +178,7 @@
     <p>We may disclose your information when required to:</p>
     <ul>
         <li>Comply with legal obligations, court orders, or government requests</li>
-        <li>Protect the rights, safety, and property of Rock Bottom, our users, or others</li>
+        <li>Protect the rights, safety, and property of Rock Bottom - Reset Your Life, our users, or others</li>
         <li>Investigate and prevent fraud, security issues, or technical problems</li>
         <li>Enforce our Terms and Conditions</li>
     </ul>
@@ -189,7 +189,7 @@
     <h2>4. Data Storage and Security</h2>
     
     <h3>4.1 Where Your Data Lives</h3>
-    <p><strong>Rock Bottom stores all app data locally on your device.</strong> We do not operate servers or databases that store your personal information. Specifically:</p>
+    <p><strong>Rock Bottom - Reset Your Life stores all app data locally on your device.</strong> We do not operate servers or databases that store your personal information. Specifically:</p>
     <ul>
         <li><strong>Local Storage:</strong> Journey data, improvement plan, and preferences are stored in your device's secure storage using iOS UserDefaults and app containers.</li>
         <li><strong>iCloud (Optional):</strong> If enabled, data syncs to your personal iCloud account using Apple's encrypted CloudKit services.</li>
@@ -226,7 +226,7 @@
     
     <h3>5.3 Deletion</h3>
     <ul>
-        <li><strong>Delete App Data:</strong> Deleting the Rock Bottom app from your device removes all locally stored data.</li>
+        <li><strong>Delete App Data:</strong> Deleting the Rock Bottom - Reset Your Life app from your device removes all locally stored data.</li>
         <li><strong>Delete iCloud Data:</strong> Disable iCloud sync and delete the app to remove synced data from iCloud.</li>
         <li><strong>Request Deletion from Third Parties:</strong> Contact us to request deletion of any data sent to OpenAI (though they automatically delete API data after 30 days).</li>
     </ul>
@@ -243,16 +243,16 @@
         <li>Note that withdrawing consent may limit app functionality (e.g., you won't receive an AI-generated plan without sending data to OpenAI).</li>
     </ul>
     
-    <p>To exercise any of these rights, contact us at <strong>team@pathapp.net</strong> (replace with your actual email).</p>
+    <p>To exercise any of these rights, contact us at <strong>team@pathapp.net</strong>.</p>
     
     <h2>6. Data Retention</h2>
     
     <h3>6.1 Local Data</h3>
     <p>Data stored on your device remains until you:</p>
     <ul>
-        <li>Delete the Rock Bottom app</li>
+        <li>Delete the Rock Bottom - Reset Your Life app</li>
         <li>Reset your journey through the app settings</li>
-        <li>Manually clear app data through iOS Settings → Rock Bottom → Reset App</li>
+        <li>Manually clear app data through iOS Settings → Rock Bottom - Reset Your Life → Reset App</li>
     </ul>
     
     <h3>6.2 Third-Party Data</h3>
@@ -266,7 +266,7 @@
     <p>We may retain certain data longer if required by law, such as transaction records for tax purposes or to comply with legal investigations.</p>
     
     <h2>7. Cookies and Tracking Technologies</h2>
-    <p><strong>Rock Bottom does NOT use cookies, analytics trackers, or advertising identifiers.</strong> We do not track your behavior, app usage patterns, or collect data for advertising purposes.</p>
+    <p><strong>Rock Bottom - Reset Your Life does NOT use cookies, analytics trackers, or advertising identifiers.</strong> We do not track your behavior, app usage patterns, or collect data for advertising purposes.</p>
     <p>The only "tracking" that occurs is:</p>
     <ul>
         <li>Calculating days elapsed since your journey start (stored locally on your device)</li>
@@ -274,18 +274,18 @@
     </ul>
     
     <h2>8. Third-Party Links</h2>
-    <p>Rock Bottom may include links to third-party websites or resources (e.g., OpenAI's privacy policy, support documentation). We are not responsible for the privacy practices or content of these third parties. We encourage you to review their privacy policies before providing any information.</p>
+    <p>Rock Bottom - Reset Your Life may include links to third-party websites or resources (e.g., OpenAI's privacy policy, support documentation). We are not responsible for the privacy practices or content of these third parties. We encourage you to review their privacy policies before providing any information.</p>
     
     <h2>9. Children's Privacy</h2>
-    <p>Rock Bottom is not intended for users under 17 years of age. We do not knowingly collect personal information from children under 17. If we discover that a child under 17 has provided us with personal information, we will delete such information immediately.</p>
+    <p>Rock Bottom - Reset Your Life is not intended for users under 17 years of age. We do not knowingly collect personal information from children under 17. If we discover that a child under 17 has provided us with personal information, we will delete such information immediately.</p>
     <p>If you are a parent or guardian and believe your child has provided us with personal information, please contact us at <strong>team@pathapp.net</strong>.</p>
     
     <h2>10. International Users and Data Transfers</h2>
-    <p>Rock Bottom is operated from the United States. If you are accessing the app from outside the United States, please be aware that:</p>
+    <p>Rock Bottom - Reset Your Life is operated from the United States. If you are accessing the app from outside the United States, please be aware that:</p>
     <ul>
         <li>Your information may be transferred to and processed in the United States or other countries where our service providers operate</li>
         <li>These countries may have different data protection laws than your country of residence</li>
-        <li>By using Rock Bottom, you consent to the transfer of your information to the United States and other countries for processing</li>
+        <li>By using Rock Bottom - Reset Your Life, you consent to the transfer of your information to the United States and other countries for processing</li>
     </ul>
     <p>For EU users: We rely on standard contractual clauses and other legal mechanisms to ensure adequate protection of your data when transferred internationally.</p>
     
@@ -309,7 +309,6 @@
                 <li>Legitimate interests (to improve the app and prevent fraud)</li>
             </ul>
         </li>
-        <li><strong>Data Protection Officer:</strong> For GDPR inquiries, contact us at <strong>privacy@rockbottomapp.com</strong></li>
         <li><strong>Right to Lodge a Complaint:</strong> You have the right to lodge a complaint with your local data protection authority</li>
     </ul>
     
@@ -330,7 +329,7 @@
     <p>We encourage you to review this Privacy Policy periodically to stay informed about how we protect your information.</p>
     
     <h2>14. Your Consent</h2>
-    <p>By using Rock Bottom, you consent to:</p>
+    <p>By using Rock Bottom - Reset Your Life, you consent to:</p>
     <ul>
         <li>This Privacy Policy and our data practices</li>
         <li>Sending your onboarding reflections to OpenAI for plan generation</li>
@@ -349,7 +348,7 @@
     </div>
     
     <div class="footer">
-        <p>© 2025 Rock Bottom. All rights reserved.</p>
+        <p>© 2025 Rock Bottom - Reset Your Life. All rights reserved.</p>
         <p>This privacy policy is effective as of December 7, 2025.</p>
     </div>
 </body>

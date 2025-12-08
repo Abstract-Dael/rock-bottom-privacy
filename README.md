@@ -1,2 +1,356 @@
-# rock-bottom-privacy
-"Privacy Policy for Rock Bottom iOS App"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Bottom - Reset Your Life - Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+            background-color: #FDFCF9;
+        }
+        h1 {
+            color: #a1aabf;
+            border-bottom: 3px solid #a1aabf;
+            padding-bottom: 15px;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #666;
+            margin-top: 40px;
+            margin-bottom: 15px;
+            font-size: 1.8em;
+            border-left: 4px solid #FFCBA0;
+            padding-left: 15px;
+        }
+        h3 {
+            color: #777;
+            margin-top: 25px;
+            margin-bottom: 10px;
+            font-size: 1.3em;
+        }
+        .last-updated {
+            color: #999;
+            font-style: italic;
+            margin-bottom: 30px;
+            font-size: 0.95em;
+        }
+        .intro {
+            background-color: #F7F5F2;
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            border-left: 4px solid #a1aabf;
+        }
+        .contact {
+            background-color: #BDE5D6;
+            padding: 20px;
+            border-radius: 12px;
+            margin-top: 40px;
+        }
+        .contact h3 {
+            margin-top: 0;
+            color: #333;
+        }
+        ul {
+            line-height: 1.8;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        strong {
+            color: #555;
+        }
+        a {
+            color: #a1aabf;
+            text-decoration: none;
+            border-bottom: 1px solid #a1aabf;
+        }
+        a:hover {
+            color: #FFCBA0;
+            border-bottom-color: #FFCBA0;
+        }
+        .footer {
+            margin-top: 60px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            text-align: center;
+            color: #999;
+            font-size: 0.9em;
+        }
+        .highlight {
+            background-color: #FFF9F0;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+            border-left: 3px solid #FFCBA0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Rock Bottom - Reset Your Life</h1>
+    <p class="last-updated">Last Updated: December 7, 2025</p>
+    
+    <div class="intro">
+        <p>At Rock Bottom, your privacy is our priority. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our iOS application. By accessing or using Rock Bottom, you consent to the practices described below.</p>
+        <p><strong>Rock Bottom is a personal journey and goal tracking app designed to help you rebuild from challenging moments in life. We believe in transparency and are committed to safeguarding your sensitive personal reflections.</strong></p>
+    </div>
+    
+    <h2>1. Information We Collect</h2>
+    <p>We collect the following types of information to provide and improve our services:</p>
+    
+    <h3>1.1 Personal Information</h3>
+    <ul>
+        <li><strong>Authentication:</strong> When you sign in with Apple, we receive a unique anonymous identifier. Apple does not share your email address or name with us unless you explicitly choose to share it.</li>
+        <li><strong>Personal Reflections:</strong> During onboarding, you provide written descriptions of your current challenges, goals, and areas you want to improve. This text is used solely to generate your personalized improvement plan.</li>
+        <li><strong>Payment Information:</strong> Subscription payments are processed securely through Apple's In-App Purchase system and Superwall. We do not have access to or store your credit card details, billing address, or other payment information.</li>
+    </ul>
+    
+    <h3>1.2 Journey Data</h3>
+    <ul>
+        <li><strong>Journey Start Date:</strong> The date you began your journey, used to calculate progress milestones and unlock badges.</li>
+        <li><strong>Milestone Progress:</strong> Records of which achievement badges you've unlocked based on time elapsed since your journey start.</li>
+        <li><strong>Improvement Plan:</strong> The AI-generated personalized plan created from your initial reflections.</li>
+    </ul>
+    
+    <h3>1.3 Device Information</h3>
+    <ul>
+        <li><strong>Device Type:</strong> iOS version and device model for app compatibility purposes.</li>
+        <li><strong>App Version:</strong> The version of Rock Bottom you're using to ensure proper functionality.</li>
+    </ul>
+    
+    <div class="highlight">
+        <strong>What We DO NOT Collect:</strong>
+        <ul style="margin-bottom: 0;">
+            <li>We do NOT collect IP addresses</li>
+            <li>We do NOT use analytics or tracking services</li>
+            <li>We do NOT collect location data</li>
+            <li>We do NOT track your app usage patterns</li>
+            <li>We do NOT collect contacts, photos, or other device data</li>
+        </ul>
+    </div>
+    
+    <h2>2. How We Use Your Information</h2>
+    <p>We use your information solely to:</p>
+    <ul>
+        <li><strong>Generate Your Personalized Plan:</strong> Your initial reflections are sent to OpenAI's GPT-4 API to create a customized improvement roadmap tailored to your specific situation.</li>
+        <li><strong>Track Your Journey Progress:</strong> Calculate days since your journey start to unlock milestone badges and visualize your progress.</li>
+        <li><strong>Manage Your Subscription:</strong> Verify your subscription status to provide access to premium features through Apple's In-App Purchase system.</li>
+        <li><strong>Display Your Plan:</strong> Store and display your personalized improvement plan for ongoing reference.</li>
+        <li><strong>Sync Across Devices (Optional):</strong> If you enable iCloud sync, your journey data syncs across your Apple devices for seamless access.</li>
+    </ul>
+    
+    <h2>3. Data Sharing and Third-Party Services</h2>
+    <p><strong>We do not sell, rent, or share your personal information with third parties for marketing purposes.</strong> However, we work with the following trusted service providers to deliver core app functionality:</p>
+    
+    <h3>3.1 OpenAI</h3>
+    <p>Your onboarding reflections are sent securely to OpenAI's API to generate your personalized improvement plan. OpenAI processes this data according to their privacy policy and data usage policies:</p>
+    <ul>
+        <li><strong>What's Shared:</strong> Only the text you provide during onboarding describing your challenges and goals.</li>
+        <li><strong>Purpose:</strong> To generate your personalized improvement plan using GPT-4.</li>
+        <li><strong>OpenAI's Policy:</strong> <a href="https://openai.com/policies/privacy-policy" target="_blank">https://openai.com/policies/privacy-policy</a></li>
+        <li><strong>Data Retention:</strong> OpenAI may retain API requests for up to 30 days for abuse monitoring, then deletes them. They do not use your data to train their models.</li>
+    </ul>
+    
+    <h3>3.2 Apple Services</h3>
+    <ul>
+        <li><strong>Sign in with Apple:</strong> Provides secure authentication without sharing your personal information with us. Learn more: <a href="https://support.apple.com/en-us/HT210318" target="_blank">Apple's Sign in with Apple Privacy</a></li>
+        <li><strong>In-App Purchases:</strong> All subscription payments are processed by Apple. We receive only confirmation of your subscription status.</li>
+        <li><strong>iCloud (Optional):</strong> If you enable iCloud sync, your journey data is encrypted and stored in your personal iCloud account, not on our servers.</li>
+    </ul>
+    
+    <h3>3.3 Superwall</h3>
+    <p>Superwall provides our paywall and subscription management interface. They process:</p>
+    <ul>
+        <li>Anonymous device identifiers</li>
+        <li>Subscription status and events</li>
+        <li>Paywall interaction data (e.g., which subscription tier you viewed)</li>
+    </ul>
+    <p>Learn more: <a href="https://superwall.com/privacy" target="_blank">Superwall Privacy Policy</a></p>
+    
+    <h3>3.4 Legal Compliance</h3>
+    <p>We may disclose your information when required to:</p>
+    <ul>
+        <li>Comply with legal obligations, court orders, or government requests</li>
+        <li>Protect the rights, safety, and property of Rock Bottom, our users, or others</li>
+        <li>Investigate and prevent fraud, security issues, or technical problems</li>
+        <li>Enforce our Terms and Conditions</li>
+    </ul>
+    
+    <h3>3.5 Business Transfers</h3>
+    <p>In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new entity. We will notify you via email and/or a prominent notice in the app before your information becomes subject to a different privacy policy.</p>
+    
+    <h2>4. Data Storage and Security</h2>
+    
+    <h3>4.1 Where Your Data Lives</h3>
+    <p><strong>Rock Bottom stores all app data locally on your device.</strong> We do not operate servers or databases that store your personal information. Specifically:</p>
+    <ul>
+        <li><strong>Local Storage:</strong> Journey data, improvement plan, and preferences are stored in your device's secure storage using iOS UserDefaults and app containers.</li>
+        <li><strong>iCloud (Optional):</strong> If enabled, data syncs to your personal iCloud account using Apple's encrypted CloudKit services.</li>
+        <li><strong>No Remote Servers:</strong> We do not upload or store your data on any servers we control.</li>
+    </ul>
+    
+    <h3>4.2 Security Measures</h3>
+    <p>We implement industry-standard security measures to protect your information:</p>
+    <ul>
+        <li><strong>Encryption:</strong> All data transmitted to OpenAI is sent over encrypted HTTPS connections.</li>
+        <li><strong>iOS Security:</strong> Your local data benefits from iOS's built-in security features, including app sandboxing and device encryption.</li>
+        <li><strong>Sign in with Apple:</strong> Provides two-factor authentication and privacy protections.</li>
+        <li><strong>No Passwords:</strong> We never store passwords because authentication is handled entirely by Apple.</li>
+    </ul>
+    
+    <div class="highlight">
+        <p><strong>Important Security Note:</strong> While we implement strong security practices, no method of electronic storage or transmission is 100% secure. We cannot guarantee absolute security, but we continuously work to protect your data using industry best practices.</p>
+    </div>
+    
+    <h2>5. Your Rights and Choices</h2>
+    <p>Depending on your location (including GDPR in the EU, CCPA in California, and other privacy laws), you may have the following rights regarding your data:</p>
+    
+    <h3>5.1 Access and Portability</h3>
+    <ul>
+        <li><strong>Access Your Data:</strong> All your data is stored locally on your device and is always accessible to you through the app interface.</li>
+        <li><strong>Export Your Data:</strong> Contact us at the email below to request a copy of any data processed through our third-party services (e.g., OpenAI API requests).</li>
+    </ul>
+    
+    <h3>5.2 Correction</h3>
+    <ul>
+        <li><strong>Update Information:</strong> You can modify your journey start date, reset your journey, or update your improvement plan at any time through the app.</li>
+        <li><strong>Correct Inaccuracies:</strong> Contact us if you believe any data processed on your behalf is inaccurate.</li>
+    </ul>
+    
+    <h3>5.3 Deletion</h3>
+    <ul>
+        <li><strong>Delete App Data:</strong> Deleting the Rock Bottom app from your device removes all locally stored data.</li>
+        <li><strong>Delete iCloud Data:</strong> Disable iCloud sync and delete the app to remove synced data from iCloud.</li>
+        <li><strong>Request Deletion from Third Parties:</strong> Contact us to request deletion of any data sent to OpenAI (though they automatically delete API data after 30 days).</li>
+    </ul>
+    
+    <h3>5.4 Restriction and Objection</h3>
+    <ul>
+        <li><strong>Disable iCloud Sync:</strong> You can opt out of iCloud syncing at any time through iOS Settings.</li>
+        <li><strong>Limit Data Processing:</strong> Contact us to object to specific data processing activities where legally applicable.</li>
+    </ul>
+    
+    <h3>5.5 Withdrawal of Consent</h3>
+    <ul>
+        <li>You can revoke consent for data processing at any time by deleting the app or contacting us.</li>
+        <li>Note that withdrawing consent may limit app functionality (e.g., you won't receive an AI-generated plan without sending data to OpenAI).</li>
+    </ul>
+    
+    <p>To exercise any of these rights, contact us at <strong>team@pathapp.net</strong> (replace with your actual email).</p>
+    
+    <h2>6. Data Retention</h2>
+    
+    <h3>6.1 Local Data</h3>
+    <p>Data stored on your device remains until you:</p>
+    <ul>
+        <li>Delete the Rock Bottom app</li>
+        <li>Reset your journey through the app settings</li>
+        <li>Manually clear app data through iOS Settings → Rock Bottom → Reset App</li>
+    </ul>
+    
+    <h3>6.2 Third-Party Data</h3>
+    <ul>
+        <li><strong>OpenAI:</strong> API requests are retained for up to 30 days for abuse monitoring, then automatically deleted.</li>
+        <li><strong>Apple:</strong> Subscription records are retained according to Apple's policies for tax and legal compliance.</li>
+        <li><strong>Superwall:</strong> Subscription events are retained according to their data retention policy.</li>
+    </ul>
+    
+    <h3>6.3 Legal Retention</h3>
+    <p>We may retain certain data longer if required by law, such as transaction records for tax purposes or to comply with legal investigations.</p>
+    
+    <h2>7. Cookies and Tracking Technologies</h2>
+    <p><strong>Rock Bottom does NOT use cookies, analytics trackers, or advertising identifiers.</strong> We do not track your behavior, app usage patterns, or collect data for advertising purposes.</p>
+    <p>The only "tracking" that occurs is:</p>
+    <ul>
+        <li>Calculating days elapsed since your journey start (stored locally on your device)</li>
+        <li>Storing your subscription status (managed by Apple)</li>
+    </ul>
+    
+    <h2>8. Third-Party Links</h2>
+    <p>Rock Bottom may include links to third-party websites or resources (e.g., OpenAI's privacy policy, support documentation). We are not responsible for the privacy practices or content of these third parties. We encourage you to review their privacy policies before providing any information.</p>
+    
+    <h2>9. Children's Privacy</h2>
+    <p>Rock Bottom is not intended for users under 17 years of age. We do not knowingly collect personal information from children under 17. If we discover that a child under 17 has provided us with personal information, we will delete such information immediately.</p>
+    <p>If you are a parent or guardian and believe your child has provided us with personal information, please contact us at <strong>team@pathapp.net</strong>.</p>
+    
+    <h2>10. International Users and Data Transfers</h2>
+    <p>Rock Bottom is operated from the United States. If you are accessing the app from outside the United States, please be aware that:</p>
+    <ul>
+        <li>Your information may be transferred to and processed in the United States or other countries where our service providers operate</li>
+        <li>These countries may have different data protection laws than your country of residence</li>
+        <li>By using Rock Bottom, you consent to the transfer of your information to the United States and other countries for processing</li>
+    </ul>
+    <p>For EU users: We rely on standard contractual clauses and other legal mechanisms to ensure adequate protection of your data when transferred internationally.</p>
+    
+    <h2>11. California Privacy Rights (CCPA)</h2>
+    <p>If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA):</p>
+    <ul>
+        <li><strong>Right to Know:</strong> Request information about the personal information we've collected about you in the past 12 months</li>
+        <li><strong>Right to Delete:</strong> Request deletion of your personal information (subject to certain exceptions)</li>
+        <li><strong>Right to Opt-Out:</strong> We do not sell personal information, so there is nothing to opt out of</li>
+        <li><strong>Non-Discrimination:</strong> We will not discriminate against you for exercising your CCPA rights</li>
+    </ul>
+    <p>To exercise these rights, contact us at <strong>team@pathapp.net</strong>. We may ask for verification before fulfilling your request.</p>
+    
+    <h2>12. European Privacy Rights (GDPR)</h2>
+    <p>If you are located in the European Economic Area (EEA), United Kingdom, or Switzerland, you have rights under the General Data Protection Regulation (GDPR):</p>
+    <ul>
+        <li><strong>Legal Basis for Processing:</strong> We process your data based on:
+            <ul>
+                <li>Consent (for AI plan generation)</li>
+                <li>Contract performance (to provide app services)</li>
+                <li>Legitimate interests (to improve the app and prevent fraud)</li>
+            </ul>
+        </li>
+        <li><strong>Data Protection Officer:</strong> For GDPR inquiries, contact us at <strong>privacy@rockbottomapp.com</strong></li>
+        <li><strong>Right to Lodge a Complaint:</strong> You have the right to lodge a complaint with your local data protection authority</li>
+    </ul>
+    
+    <h2>13. Updates to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time to reflect:</p>
+    <ul>
+        <li>Changes in our data practices</li>
+        <li>New features or services</li>
+        <li>Legal or regulatory requirements</li>
+        <li>Improvements to our security practices</li>
+    </ul>
+    <p><strong>How We'll Notify You:</strong></p>
+    <ul>
+        <li>We will update the "Last Updated" date at the top of this policy</li>
+        <li>For material changes, we will notify you through the app or via email (if we have your contact information)</li>
+        <li>Continued use of the app after changes constitutes acceptance of the updated policy</li>
+    </ul>
+    <p>We encourage you to review this Privacy Policy periodically to stay informed about how we protect your information.</p>
+    
+    <h2>14. Your Consent</h2>
+    <p>By using Rock Bottom, you consent to:</p>
+    <ul>
+        <li>This Privacy Policy and our data practices</li>
+        <li>Sending your onboarding reflections to OpenAI for plan generation</li>
+        <li>Processing your subscription through Apple and Superwall</li>
+        <li>Local storage of your journey data on your device</li>
+        <li>Optional iCloud syncing if you enable it</li>
+    </ul>
+    <p>You can withdraw consent at any time by deleting the app or contacting us.</p>
+    
+    <div class="contact">
+        <h3>15. Contact Us</h3>
+        <p>If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:</p>
+        <p><strong>Email:</strong> team@pathapp.net<br>
+        <strong>App:</strong> Rock Bottom - Reset Your Life for iOS<br>
+        <strong>Response Time:</strong> We aim to respond to all inquiries within 5-7 business days</p>
+    </div>
+    
+    <div class="footer">
+        <p>© 2025 Rock Bottom. All rights reserved.</p>
+        <p>This privacy policy is effective as of December 7, 2025.</p>
+    </div>
+</body>
+</html>

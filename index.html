@@ -95,7 +95,7 @@
 </head>
 <body>
     <h1>Privacy Policy for Rock Bottom - Reset Your Life</h1>
-    <p class="last-updated">Last Updated: December 7, 2025</p>
+    <p class="last-updated">Last Updated: January 29, 2026</p>
     
     <div class="intro">
         <p>At Rock Bottom - Reset Your Life, your privacy is our priority. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our iOS application. By accessing or using Rock Bottom - Reset Your Life, you consent to the practices described below.</p>
@@ -123,16 +123,23 @@
     <ul>
         <li><strong>Device Type:</strong> iOS version and device model for app compatibility purposes.</li>
         <li><strong>App Version:</strong> The version of Rock Bottom you're using to ensure proper functionality.</li>
+        <li><strong>Device Identifier:</strong> A unique device identifier used for analytics purposes (see Section 3.4).</li>
+    </ul>
+    
+    <h3>1.4 Usage Data</h3>
+    <ul>
+        <li><strong>Product Interactions:</strong> We collect anonymized data about how you interact with the app, including screens viewed, buttons tapped, and navigation patterns. This helps us improve the user experience.</li>
+        <li><strong>Session Recordings:</strong> We use session replay technology to record anonymized sessions of app usage. See Section 3.4 for details on how we protect your privacy in these recordings.</li>
     </ul>
     
     <div class="highlight">
         <strong>What We DO NOT Collect:</strong>
         <ul style="margin-bottom: 0;">
             <li>We do NOT collect IP addresses</li>
-            <li>We do NOT use analytics or tracking services</li>
             <li>We do NOT collect location data</li>
-            <li>We do NOT track your app usage patterns</li>
             <li>We do NOT collect contacts, photos, or other device data</li>
+            <li>We do NOT sell your data to third parties</li>
+            <li>We do NOT use data for advertising purposes</li>
         </ul>
     </div>
     
@@ -144,6 +151,7 @@
         <li><strong>Manage Your Subscription:</strong> Verify your subscription status to provide access to premium features through Apple's In-App Purchase system.</li>
         <li><strong>Display Your Plan:</strong> Store and display your personalized improvement plan for ongoing reference.</li>
         <li><strong>Sync Across Devices (Optional):</strong> If you enable iCloud sync, your journey data syncs across your Apple devices for seamless access.</li>
+        <li><strong>Improve the App:</strong> Analyze anonymized usage patterns and session recordings to identify issues, improve features, and enhance the overall user experience.</li>
     </ul>
     
     <h2>3. Data Sharing and Third-Party Services</h2>
@@ -174,7 +182,25 @@
     </ul>
     <p>Learn more: <a href="https://superwall.com/privacy" target="_blank">Superwall Privacy Policy</a></p>
     
-    <h3>3.4 Legal Compliance</h3>
+    <h3>3.4 Mixpanel (Analytics &amp; Session Replay)</h3>
+    <p>We use Mixpanel to understand how users interact with Rock Bottom and to improve the app experience. Mixpanel provides:</p>
+    <ul>
+        <li><strong>Analytics:</strong> Anonymized data about app usage, including which features are used most, where users encounter issues, and how users navigate through the app.</li>
+        <li><strong>Session Replay:</strong> Recordings of user sessions that show screen content and interactions (taps, scrolls, navigation) to help us identify usability issues and improve the experience.</li>
+    </ul>
+    
+    <div class="highlight">
+        <strong>Session Replay Privacy Protections:</strong>
+        <ul style="margin-bottom: 0;">
+            <li><strong>Sensitive content is automatically masked:</strong> Text you enter about your personal challenges, your name, and your age are never recorded in session replays. These fields appear as black rectangles in recordings.</li>
+            <li><strong>Text inputs are always hidden:</strong> Any text you type into input fields is automatically masked by the SDK.</li>
+            <li><strong>No personal data in recordings:</strong> Session replays capture only anonymized interaction patterns, not your personal information.</li>
+            <li><strong>Used solely for product improvement:</strong> Session recordings are not shared with third parties and are used only to improve the Rock Bottom experience.</li>
+        </ul>
+    </div>
+    <p>Learn more: <a href="https://mixpanel.com/legal/privacy-policy/" target="_blank">Mixpanel Privacy Policy</a></p>
+    
+    <h3>3.5 Legal Compliance</h3>
     <p>We may disclose your information when required to:</p>
     <ul>
         <li>Comply with legal obligations, court orders, or government requests</li>
@@ -183,26 +209,27 @@
         <li>Enforce our Terms and Conditions</li>
     </ul>
     
-    <h3>3.5 Business Transfers</h3>
+    <h3>3.6 Business Transfers</h3>
     <p>In the event of a merger, acquisition, or sale of assets, your information may be transferred to the new entity. We will notify you via email and/or a prominent notice in the app before your information becomes subject to a different privacy policy.</p>
     
     <h2>4. Data Storage and Security</h2>
     
     <h3>4.1 Where Your Data Lives</h3>
-    <p><strong>Rock Bottom - Reset Your Life stores all app data locally on your device.</strong> We do not operate servers or databases that store your personal information. Specifically:</p>
+    <p><strong>Rock Bottom - Reset Your Life stores most app data locally on your device.</strong> We do not operate servers or databases that store your personal reflections or improvement plans. Specifically:</p>
     <ul>
         <li><strong>Local Storage:</strong> Journey data, improvement plan, and preferences are stored in your device's secure storage using iOS UserDefaults and app containers.</li>
         <li><strong>iCloud (Optional):</strong> If enabled, data syncs to your personal iCloud account using Apple's encrypted CloudKit services.</li>
-        <li><strong>No Remote Servers:</strong> We do not upload or store your data on any servers we control.</li>
+        <li><strong>Analytics Data:</strong> Anonymized usage data and session recordings are stored on Mixpanel's secure servers.</li>
     </ul>
     
     <h3>4.2 Security Measures</h3>
     <p>We implement industry-standard security measures to protect your information:</p>
     <ul>
-        <li><strong>Encryption:</strong> All data transmitted to OpenAI is sent over encrypted HTTPS connections.</li>
+        <li><strong>Encryption:</strong> All data transmitted to OpenAI and Mixpanel is sent over encrypted HTTPS connections.</li>
         <li><strong>iOS Security:</strong> Your local data benefits from iOS's built-in security features, including app sandboxing and device encryption.</li>
         <li><strong>Sign in with Apple:</strong> Provides two-factor authentication and privacy protections.</li>
         <li><strong>No Passwords:</strong> We never store passwords because authentication is handled entirely by Apple.</li>
+        <li><strong>Sensitive Data Masking:</strong> Session replay automatically masks sensitive fields to prevent recording of personal information.</li>
     </ul>
     
     <div class="highlight">
@@ -215,7 +242,7 @@
     <h3>5.1 Access and Portability</h3>
     <ul>
         <li><strong>Access Your Data:</strong> All your data is stored locally on your device and is always accessible to you through the app interface.</li>
-        <li><strong>Export Your Data:</strong> Contact us at the email below to request a copy of any data processed through our third-party services (e.g., OpenAI API requests).</li>
+        <li><strong>Export Your Data:</strong> Contact us at the email below to request a copy of any data processed through our third-party services (e.g., OpenAI API requests, Mixpanel analytics).</li>
     </ul>
     
     <h3>5.2 Correction</h3>
@@ -228,7 +255,7 @@
     <ul>
         <li><strong>Delete App Data:</strong> Deleting the Rock Bottom - Reset Your Life app from your device removes all locally stored data.</li>
         <li><strong>Delete iCloud Data:</strong> Disable iCloud sync and delete the app to remove synced data from iCloud.</li>
-        <li><strong>Request Deletion from Third Parties:</strong> Contact us to request deletion of any data sent to OpenAI (though they automatically delete API data after 30 days).</li>
+        <li><strong>Request Deletion from Third Parties:</strong> Contact us to request deletion of any data sent to OpenAI (though they automatically delete API data after 30 days) or Mixpanel.</li>
     </ul>
     
     <h3>5.4 Restriction and Objection</h3>
@@ -260,18 +287,39 @@
         <li><strong>OpenAI:</strong> API requests are retained for up to 30 days for abuse monitoring, then automatically deleted.</li>
         <li><strong>Apple:</strong> Subscription records are retained according to Apple's policies for tax and legal compliance.</li>
         <li><strong>Superwall:</strong> Subscription events are retained according to their data retention policy.</li>
+        <li><strong>Mixpanel:</strong> Analytics data and session recordings are retained according to Mixpanel's data retention policies and our account settings.</li>
     </ul>
     
     <h3>6.3 Legal Retention</h3>
     <p>We may retain certain data longer if required by law, such as transaction records for tax purposes or to comply with legal investigations.</p>
     
-    <h2>7. Cookies and Tracking Technologies</h2>
-    <p><strong>Rock Bottom - Reset Your Life does NOT use cookies, analytics trackers, or advertising identifiers.</strong> We do not track your behavior, app usage patterns, or collect data for advertising purposes.</p>
-    <p>The only "tracking" that occurs is:</p>
+    <h2>7. Analytics and Session Recording</h2>
+    <p>Rock Bottom uses Mixpanel for analytics and session replay to improve the app experience. Here's what this means for you:</p>
+    
+    <h3>7.1 What We Track</h3>
     <ul>
-        <li>Calculating days elapsed since your journey start (stored locally on your device)</li>
-        <li>Storing your subscription status (managed by Apple)</li>
+        <li>Which screens you visit and how you navigate the app</li>
+        <li>Which features you use most frequently</li>
+        <li>Where you might encounter errors or confusion</li>
+        <li>General usage patterns to understand user needs</li>
     </ul>
+    
+    <h3>7.2 What We DON'T Track</h3>
+    <ul>
+        <li>The content of your personal reflections or challenges</li>
+        <li>Your name, age, or other personal identifiers in recordings</li>
+        <li>Any text you type into input fields</li>
+        <li>Your location or IP address</li>
+    </ul>
+    
+    <h3>7.3 Session Replay</h3>
+    <p>Session replay creates anonymized recordings of how you interact with the app. These recordings help us:</p>
+    <ul>
+        <li>Identify and fix usability issues</li>
+        <li>Understand where users get stuck</li>
+        <li>Improve the overall app experience</li>
+    </ul>
+    <p><strong>Your privacy is protected:</strong> Sensitive information (your personal challenges, name, and age) is automatically masked and appears as black rectangles in recordings. We never see what you type in these fields.</p>
     
     <h2>8. Third-Party Links</h2>
     <p>Rock Bottom - Reset Your Life may include links to third-party websites or resources (e.g., OpenAI's privacy policy, support documentation). We are not responsible for the privacy practices or content of these third parties. We encourage you to review their privacy policies before providing any information.</p>
@@ -306,7 +354,7 @@
             <ul>
                 <li>Consent (for AI plan generation)</li>
                 <li>Contract performance (to provide app services)</li>
-                <li>Legitimate interests (to improve the app and prevent fraud)</li>
+                <li>Legitimate interests (to improve the app, prevent fraud, and analyze usage patterns)</li>
             </ul>
         </li>
         <li><strong>Right to Lodge a Complaint:</strong> You have the right to lodge a complaint with your local data protection authority</li>
@@ -336,6 +384,7 @@
         <li>Processing your subscription through Apple and Superwall</li>
         <li>Local storage of your journey data on your device</li>
         <li>Optional iCloud syncing if you enable it</li>
+        <li>Collection of anonymized usage data and session recordings for product improvement</li>
     </ul>
     <p>You can withdraw consent at any time by deleting the app or contacting us.</p>
     
@@ -348,8 +397,8 @@
     </div>
     
     <div class="footer">
-        <p>© 2025 Rock Bottom - Reset Your Life. All rights reserved.</p>
-        <p>This privacy policy is effective as of December 7, 2025.</p>
+        <p>© 2026 Rock Bottom - Reset Your Life. All rights reserved.</p>
+        <p>This privacy policy is effective as of January 29, 2026.</p>
     </div>
 </body>
 </html>
